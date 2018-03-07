@@ -4,6 +4,8 @@ A build env for php applications.
 
 You can find the image at [https://hub.docker.com/r/weseldridge/laravel-builder/](https://hub.docker.com/r/weseldridge/laravel-builder/).
 
+The base images is [PHP:7.1](https://hub.docker.com/_/php/)
+
 ## A short list of dependences.
 
 ### OS Level
